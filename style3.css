@@ -10,11 +10,12 @@ body{
     font-family: Verdana;
     background: #50505003;
     color: #505050;
+    width: 900px;
 }
 
 a{
     text-decoration: line-through;
-    color: #0606f0;
+    color: #505050;
 
 }
 
@@ -52,4 +53,10 @@ a{
 .contact-list{
     list-style-type: none;
     padding-left: 30px;
+}
+
+.link-contact{
+    text-decoration: none;
+    color: blue;
+
 }
