@@ -6,6 +6,7 @@
     font-size: 40px;
     text-transform: uppercase;
 }
+
 body{
     font-family: Verdana;
     background: #50505003;
@@ -17,7 +18,6 @@ body{
 a{
     text-decoration: line-through;
     color: #505050;
-
 }
 
 .photo{
@@ -44,6 +44,7 @@ a{
     margin: 0;
     margin-bottom: 15px;
     text-transform: capitalize;
+    text-align: justify;
 }
 
 .post-image{
@@ -59,5 +60,4 @@ a{
 .link-contact{
     text-decoration: none;
     color: blue;
-
 }
