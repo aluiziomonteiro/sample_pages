@@ -1,5 +1,5 @@
 #title, .subtitle, .post-title{
-    color: rgb(21, 21, 129);
+    color: blue;
 }
 
 #title{
@@ -8,13 +8,14 @@
 }
 body{
     font-family: Verdana;
-    background: #e9e4e4;
+    background: #50505003;
     color: #505050;
 }
 
 a{
     text-decoration: line-through;
-    color: #505050;
+    color: #0606f0;
+
 }
 
 .photo{
