@@ -10,7 +10,7 @@ body{
     font-family: Verdana;
     background: #50505003;
     color: #505050;
-    width: 900px;
+    max-width: 900px;
     margin: auto;
 }
 
